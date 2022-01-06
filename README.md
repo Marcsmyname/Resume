@@ -1,2 +1,2 @@
 # resume
-I turned my resume into a website3.
+I turned my resume into a website.
